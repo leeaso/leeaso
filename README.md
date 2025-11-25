@@ -1,4 +1,4 @@
-# Hi, I'm Lee Aso
+# Lee Aso
 
 Computer Science student and self-taught AI/Web developer
 
