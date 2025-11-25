@@ -1,15 +1,9 @@
-# Lee Aso: aka. LLINN
-![Supposed to be a background lmao](public/bg5.webp)
-<hr />
-Creator of Emillia AI.
-<br />
-Content Creator
-<br>
+# Hi, I'm Lee Aso
 
-AI and Web developer
-<br>
-<hr/>
-- Python/Typescript
-<br />
-<hr />
-- Pytorch
+Computer Science student and self-taught AI/Web developer. Creator of Emilia AI.
+
+### Tech Stack
+- Python, TypeScript, PyTorch
+- Full-stack: PERN, Next.js, React
+
+Check out my projects below!
